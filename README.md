@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @GuyWhoCodesThings
-- 👀 I’m interested in ... all kinds of artificial intelligence and the theory/math behind them
-- 🌱 I’m currently learning ... reinforcement learning
-- 💞️ I’m looking to collaborate on ... machine learning projects
-- 📫 How to reach me ...
+- studying cs at the University of Washington
 
 <!---
 GuyWhoCodesThings/GuyWhoCodesThings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
